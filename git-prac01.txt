@@ -2,3 +2,4 @@ https://github.com/sakusakuPonite/prac01.git
 
 あああ
 sub1なう
+Sub2で追加しました．
